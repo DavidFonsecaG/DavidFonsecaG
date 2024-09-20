@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-My name is David, and I'm a computer scientist interested in all thing Python & Data Science!
+My name is David, and I'm a computer scientist interested in all things Python & Data Science!
 
 🔭 I’m currently working on OpenCore Beta Testing team, supporting the development of open science learning modules in collaboration with Columbia University and Nasa.
 

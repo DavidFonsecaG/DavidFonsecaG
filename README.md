@@ -4,7 +4,7 @@ My name is David, and I'm a computer scientist interested in all thing Python & 
 
 🔭 I’m currently working on OpenCore Beta Testing team, supporting the development of open science learning modules in collaboration with Columbia University and Nasa.
 
-⚡ I recently collaborated in a Jupyter Notebook project that explores the shift in music popularity and genres in the USA during election years, analyzing Spotify data from 2016 to 2023. Check it out [here](https://github.com/DavidFonsecaG/Open-Science-101/tree/main/Group-Projects/Music%20Trends%20During%20Election%20Cycles%20-%20Spotify).
+⚡ I recently collaborated in a Jupyter Notebook project that explores the shift in music popularity and genres in the USA during election years. Check it out [here](https://github.com/DavidFonsecaG/Open-Science-101/tree/main/Group-Projects/Music%20Trends%20During%20Election%20Cycles%20-%20Spotify).
 
 🌱 I’m currently learning Machine Learning.
 

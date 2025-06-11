@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-My name is David, and I'm a software developer interested in all things Python, Data Science & Full Stack Development!
+I'm David, and I'm a software developer interested in all things Python, Data Science & Full Stack Development!
 
 🔭 I’m currently working on OpenCore Beta Testing team, supporting the development of open science learning modules in collaboration with Columbia University and Nasa.
 

@@ -1,25 +1,9 @@
 ## Hi there 👋
 
-My name is David, and I'm a computer scientist interested in all things Python & Data Science!
+My name is David, and I'm a software developer interested in all things Python, Data Science & Full Stack Development!
 
 🔭 I’m currently working on OpenCore Beta Testing team, supporting the development of open science learning modules in collaboration with Columbia University and Nasa.
 
-⚡ I recently collaborated in a Jupyter Notebook project that explores the shift in music popularity and genres in the USA during election years. Check it out [here](https://github.com/DavidFonsecaG/Open-Science-101/tree/main/Group-Projects/Music%20Trends%20During%20Election%20Cycles%20-%20Spotify).
+⚡ I recently collaborated on a Jupyter Notebook project analyzing wildfire burned areas using AVIRIS hyperspectral data and VIIRS thermal hotspots. Check it out [here](https://github.com/DavidFonsecaG/palisades-fire-mapping-aviris-viirs/blob/main/notebooks/mapping_wildfires.ipynb).
 
 🌱 I’m currently learning Machine Learning.
-
-
-<!--
-**DavidFonsecaG/DavidFonsecaG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
